@@ -9,13 +9,13 @@ You can either use this https://desktop.github.com/download/ or you can use the 
 
 # General Notes
 
-Dates are read YYYY/MM/DD.<br/> 
-To use a seeder you need a factory first.<br/> 
-second part of my return view wants to edit the file.<br/> 
-A double quote is normally used so you dont confuse when using the plural of a word.<br/>  
-Foreloop is for a known number, Foreach is for unknown.<br/>    
-when creating a form you need to link the route to the data on the views part.<br/>  
-Pivot tables summarise large amounts of data into smaller and summary tables for specific questions.  
+Dates are read YYYY/MM/DD.<br/>
+To use a seeder you need a factory first.<br/>
+second part of my return view wants to edit the file.<br/>
+A double quote is normally used so you dont confuse when using the plural of a word.<br/>
+Foreloop is for a known number, Foreach is for unknown.<br/>
+when creating a form you need to link the route to the data on the views part.<br/>
+Pivot tables summarise large amounts of data into smaller and summary tables for specific questions
 
 # Remember the functions of these codes 
 
