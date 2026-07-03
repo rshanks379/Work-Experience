@@ -1,3 +1,5 @@
+@include('layouts.app.header')
+
 <nav>
     <a href="{{ route('employee.index') }}">employees</a>
 
@@ -36,3 +38,5 @@
         @endforeach
     </table>
 </div>
+
+@include('layouts.app.footer')

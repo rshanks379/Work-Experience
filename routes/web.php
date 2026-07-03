@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\EmployeeController;
 
+
 Route::view('/', 'welcome')->name('home');
 Route::view('/about-me', 'about')->name('about');
 Route::view('/contact', 'contact')->name('contact');
