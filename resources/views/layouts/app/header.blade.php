@@ -3,18 +3,18 @@
     <head>
         @include('partials.head')
         <style>
-        body {
-            background-color: lightblue;
+           {
+        background-color: lightblue;
         }
 
-        h1 {
-            color: darkgreen;
+        h1 {    
+            color: white;
             text-align: center;
         }
 
         p {
             font-family: verdana;
-            font-size: 20px;
+            font-size:20px;
         }
         </style>
     </head>
